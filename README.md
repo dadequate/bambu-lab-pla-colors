@@ -10,14 +10,14 @@ This repository provides a **macOS color palette** for all Bambu Lab PLA filamen
 ## 🎯 Color Coverage
 
 Includes:
-- Matte
-- Silk
-- Metal
-- CF (Carbon Fiber)
-- Marble
-- Glow
-- Galaxy
-- Wood Series (Black Walnut, Rosewood, Clay Brown, Classic Birch, White Oak, Ochre Yellow)
+- Matte  
+- Silk  
+- Metal  
+- CF (Carbon Fiber)  
+- Marble  
+- Glow  
+- Galaxy  
+- Wood Series (Black Walnut, Rosewood, Clay Brown, Classic Birch, White Oak, Ochre Yellow)  
 
 ## 🚀 How to Use
 
@@ -28,3 +28,39 @@ Includes:
 
    ```bash
    ~/Library/Colors/
+   ```
+
+3. Open any macOS app that uses the color picker (e.g., TextEdit, Pages).
+4. Go to the **Color Palettes** tab, select **Bambu Lab PLA Colors**.
+
+---
+
+### Option 2: Build It Yourself
+
+1. Clone this repo:
+
+   ```bash
+   git clone https://github.com/yourusername/bambu-lab-pla-colors.git
+   cd bambu-lab-pla-colors
+   ```
+
+2. Compile and run:
+
+   ```bash
+   clang -framework Foundation -framework AppKit -o bambu_clr bambu_clr.m
+   ./bambu_clr
+   ```
+
+The palette will be generated at:
+
+```bash
+~/Library/Colors/Bambu Lab PLA Colors.clr
+```
+
+## 📦 Also Available On
+
+- **MakerWorld** (Coming Soon)
+
+## 🛠️ License
+
+MIT License. Free to use and modify.
