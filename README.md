@@ -59,7 +59,7 @@ The palette will be generated at:
 
 ## 📦 Also Available On
 
-- **MakerWorld** (Coming Soon)
+- **MakerWorld** [(https://makerworld.com/en/models/1346953-bambu-lab-pla-colors-for-macos#profileId-1388737)]
 
 ## 🛠️ License
 
