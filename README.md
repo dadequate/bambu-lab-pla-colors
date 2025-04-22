@@ -1,5 +1,3 @@
-Gotcha! Here’s the full README text, no code block:
-
 Bambu Lab PLA Colors for macOS 🎨
 
 This repository provides a macOS color palette for all Bambu Lab PLA filament colors, including the PLA Wood series. Use it in your favorite design tools like Xcode, Sketch, or any app that uses the macOS system color picker.
