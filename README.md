@@ -30,7 +30,7 @@ Includes:
    ~/Library/Colors/
    ```
 
-3. Open any macOS app that uses the color picker (e.g., TextEdit, Pages).
+3. Open BambuStudio, click on the colow swatch next to filament. (Will also work in any macOS app that uses the color picker (e.g., TextEdit, Pages).
 4. Go to the **Color Palettes** tab, select **Bambu Lab PLA Colors**.
 
 ---
