@@ -1,37 +1,42 @@
 # Bambu Lab PLA Colors for macOS 🎨
 
-This repository provides a **macOS color palette** for all Bambu Lab PLA filament colors, including the **PLA Wood series**. Use it in your favorite design tools like Xcode, Sketch, or any app that uses the macOS system color picker.
+This repository provides a **macOS color palette** for all Bambu Lab PLA filament colors, including the **PLA Wood series**, **Basic series**, and **Gradient basics**. Use it in your favorite design tools like Xcode, Sketch, or any app that uses the macOS system color picker.
 
 ## 📂 What's Included
 
-- `bambu_clr.m` – Objective-C script that generates the `.clr` file.
-- `Bambu Lab PLA Colors.clr` – Precompiled macOS color palette.
+* `bambu_clr.m` – Objective-C script that generates the `.clr` file.
+* `Bambu Lab PLA Colors.clr` – Precompiled macOS color palette.
 
 ## 🎯 Color Coverage
 
 Includes:
-- Matte  
-- Silk  
-- Metal  
-- CF (Carbon Fiber)  
-- Marble  
-- Glow  
-- Galaxy  
-- Wood Series (Black Walnut, Rosewood, Clay Brown, Classic Birch, White Oak, Ochre Yellow)  
+
+* Matte
+* Silk
+* Metal
+* CF (Carbon Fiber)
+* Marble
+* Glow
+* Galaxy
+* Wood Series (Black Walnut, Rosewood, Clay Brown, Classic Birch, White Oak, Ochre Yellow)
+* Basic Colors (White, Black, Red, Yellow, Blue, Green, Orange, Purple, Gray)
+* Gradient Basics (Blue, Green, Yellow, Orange, Purple)
 
 ## 🚀 How to Use
 
 ### Option 1: Use Precompiled `.clr`
 
 1. Download `Bambu Lab PLA Colors.clr`.
+
 2. Move it to your macOS colors folder:
 
    ```bash
    ~/Library/Colors/
    ```
 
-3. Open BambuStudio, click on the colow swatch next to filament. (Will also work in any macOS app that uses the color picker (e.g., TextEdit, Pages).
-4. Go to the **Color Palettes** tab, select **Bambu Lab PLA Colors**.
+3. Open BambuStudio, click the color swatch next to filament. (Works in any macOS app using the color picker, e.g., TextEdit, Pages).
+
+4. Go to the **Color Palettes** tab and select **Bambu Lab PLA Colors**.
 
 ---
 
@@ -59,7 +64,7 @@ The palette will be generated at:
 
 ## 📦 Also Available On
 
-- **MakerWorld** [(https://makerworld.com/en/models/1346953-bambu-lab-pla-colors-for-macos#profileId-1388737)]
+* **MakerWorld** \[([https://makerworld.com/en/models/1346953-bambu-lab-pla-colors-for-macos#profileId-1388737](https://makerworld.com/en/models/1346953-bambu-lab-pla-colors-for-macos#profileId-1388737))]
 
 ## 🛠️ License
 
