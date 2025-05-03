@@ -1,4 +1,4 @@
-# Bambu Lab PLA Colors for macOS 🎨
+# Bambu Lab Filament Colors for macOS 🎨
 
 This repository provides a **macOS color palette** for all Bambu Lab PLA filament colors, including the **PLA Wood series**, **Basic series**, and **Gradient basics**. Use it in your favorite design tools like Xcode, Sketch, or any app that uses the macOS system color picker.
 
@@ -21,6 +21,8 @@ Includes:
 * Wood Series (Black Walnut, Rosewood, Clay Brown, Classic Birch, White Oak, Ochre Yellow)
 * Basic Colors (White, Black, Red, Yellow, Blue, Green, Orange, Purple, Gray)
 * Gradient Basics (Blue, Green, Yellow, Orange, Purple)
+
+* (more coming soon)
 
 ## 🚀 How to Use
 
